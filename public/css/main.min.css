@@ -6630,7 +6630,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 .navbar-form .form-control {
-    background-color: #7CAD23;
+    /* background-color: #7CAD23; */
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
