@@ -205,7 +205,9 @@ margin-left: 0;
   margin-left: 5px;
 }
 
-#search { color: #fff; }
+#search {
+  /* color: #fff; */
+}
 
 #search::-webkit-input-placeholder {
   color: #a7a7a7;
